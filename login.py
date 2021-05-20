@@ -1,4 +1,4 @@
- num1=100 #laochen
+ num1=10000 #laochen
 
  num2=200 #jingli
 

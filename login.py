@@ -1,4 +1,7 @@
- num1=200 #laochen
+
+
+ num1=10000 #laochen
+
 
  num2=200 #jingli
 
@@ -12,6 +15,4 @@
 
  num7=700
 
-
- num5=500
 
